@@ -11,3 +11,4 @@ PDF with Submitted User Registration Data.
 6. Add to the email template page your PDF URL link text and select PDF font family
 7. The meta-key used for storing the PDF file name is: um_pdf_submitted
 8. Location for storing the PDF file is the users uploads folder.
+9. The PDF file can be viewed in the UM User Profile.
