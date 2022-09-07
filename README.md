@@ -16,6 +16,6 @@ Extension to Ultimate Member for creating PDF files with Submitted User Registra
 
 ## Reference
 
-The dompdf software is being used for creating the PDF source.
+The dompdf code library is being used for creating the PDF source.
 
 https://github.com/dompdf/dompdf/wiki
