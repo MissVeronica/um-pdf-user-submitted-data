@@ -27,6 +27,6 @@ Extension to Ultimate Member for creating PDF files with Submitted User Registra
 
 ## Reference
 
-The dompdf HTML to PDF converter code library is being used for creating the PDF source.
+The dompdf HTML to PDF converter code library version 2.0.0 is being used for creating the PDF source.
 
 https://github.com/dompdf/dompdf/wiki
