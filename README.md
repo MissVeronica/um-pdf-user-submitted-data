@@ -1,5 +1,5 @@
-# UM PDF User Submitted data
-Extension to Ultimate Member for creating PDF files with Submitted User Registration Data and attach PDF file links to Emails.
+# UM PDF User Submitted data - version 2.0.0 soon
+Extension to Ultimate Member for creating PDF files with Submitted User Registration Data and an option to attach PDF file links to notification emails.
 
 ## Installation
 
