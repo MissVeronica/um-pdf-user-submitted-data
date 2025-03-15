@@ -3,9 +3,7 @@ Extension to Ultimate Member for creating PDF files with Submitted User Registra
 
 ## Installation
 
-1. Download zip file. 
-2. Unzip and upload as a plugin to Wordpress the zip file um-pdf-submitted.zip
-3. Activate the plugin
+1. Currently nothing to install
 
 ## Email Settings
 
