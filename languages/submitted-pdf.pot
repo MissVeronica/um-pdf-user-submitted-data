@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ultimate Member - PDF User Submitted data\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-19 22:11+0000\n"
+"POT-Creation-Date: 2025-03-19 22:17+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: \n"
@@ -16,7 +16,7 @@ msgstr ""
 "X-Loco-Version: 2.7.1; wp-6.7.2\n"
 "X-Domain: submitted-pdf"
 
-#: um-pdf-user-submitted-data .php:498
+#: um-pdf-user-submitted-data .php:496
 msgid ""
 "%d Users without submitted PDF files got PDF created and total remaining "
 "Users are now %d, Found empty %d - error %d - fixed %d"
@@ -27,37 +27,37 @@ msgstr ""
 msgid "%s version %s - tested with UM 2.10.1"
 msgstr ""
 
-#: um-pdf-user-submitted-data .php:312
+#: um-pdf-user-submitted-data .php:310
 msgid "Admin email enable"
 msgstr ""
 
-#: um-pdf-user-submitted-data .php:381
+#: um-pdf-user-submitted-data .php:379
 msgid "Courier"
 msgstr ""
 
-#: um-pdf-user-submitted-data .php:382
+#: um-pdf-user-submitted-data .php:380
 msgid "DejaVu Sans"
 msgstr ""
 
-#: um-pdf-user-submitted-data .php:384
+#: um-pdf-user-submitted-data .php:382
 msgid "DejaVu Sans Mono"
 msgstr ""
 
-#: um-pdf-user-submitted-data .php:383
+#: um-pdf-user-submitted-data .php:381
 msgid "DejaVu Serif"
 msgstr ""
 
-#: um-pdf-user-submitted-data .php:354
+#: um-pdf-user-submitted-data .php:352
 msgid "Enable/disable external fonts for PDF"
 msgstr ""
 
-#: um-pdf-user-submitted-data .php:269
+#: um-pdf-user-submitted-data .php:267
 msgid ""
 "Enable/disable the extension for creating PDF with Submitted User "
 "Registration Data"
 msgstr ""
 
-#: um-pdf-user-submitted-data .php:362
+#: um-pdf-user-submitted-data .php:360
 msgid "Enter external URL address like Google fonts"
 msgstr ""
 
@@ -68,7 +68,7 @@ msgid ""
 "emails."
 msgstr ""
 
-#: um-pdf-user-submitted-data .php:287
+#: um-pdf-user-submitted-data .php:285
 msgid "Find the seach/create result at the checkbox description line above."
 msgstr ""
 
@@ -76,7 +76,7 @@ msgstr ""
 msgid "GitHub plugin documentation and download"
 msgstr ""
 
-#: um-pdf-user-submitted-data .php:385
+#: um-pdf-user-submitted-data .php:383
 msgid "Helvetica"
 msgstr ""
 
@@ -88,7 +88,7 @@ msgstr ""
 msgid "https://github.com/MissVeronica/um-pdf-user-submitted-data"
 msgstr ""
 
-#: um-pdf-user-submitted-data .php:346
+#: um-pdf-user-submitted-data .php:344
 msgid ""
 "Link text for: {pdf_submitted_link}, default if field is empty; \"PDF file\""
 msgstr ""
@@ -97,7 +97,7 @@ msgstr ""
 msgid "Miss Veronica"
 msgstr ""
 
-#: um-pdf-user-submitted-data .php:420
+#: um-pdf-user-submitted-data .php:418
 msgid ""
 "No PDF files were searched or created, you must click the \"Save Changes\" "
 "button."
@@ -107,15 +107,15 @@ msgstr ""
 msgid "Page"
 msgstr ""
 
-#: um-pdf-user-submitted-data .php:352
+#: um-pdf-user-submitted-data .php:350
 msgid "PDF external font Enable"
 msgstr ""
 
-#: um-pdf-user-submitted-data .php:368
+#: um-pdf-user-submitted-data .php:366
 msgid "PDF External font family"
 msgstr ""
 
-#: um-pdf-user-submitted-data .php:360
+#: um-pdf-user-submitted-data .php:358
 msgid "PDF External font URL"
 msgstr ""
 
@@ -123,35 +123,35 @@ msgstr ""
 msgid "PDF file"
 msgstr ""
 
-#: um-pdf-user-submitted-data .php:285
+#: um-pdf-user-submitted-data .php:283
 msgid "PDF file recreation number of Users"
 msgstr ""
 
-#: um-pdf-user-submitted-data .php:328
+#: um-pdf-user-submitted-data .php:326
 msgid "PDF Footer text"
 msgstr ""
 
-#: um-pdf-user-submitted-data .php:320
+#: um-pdf-user-submitted-data .php:318
 msgid "PDF Header text"
 msgstr ""
 
-#: um-pdf-user-submitted-data .php:336
+#: um-pdf-user-submitted-data .php:334
 msgid "PDF post text comment"
 msgstr ""
 
-#: um-pdf-user-submitted-data .php:377
+#: um-pdf-user-submitted-data .php:375
 msgid "PDF reader core font family"
 msgstr ""
 
-#: um-pdf-user-submitted-data .php:394
+#: um-pdf-user-submitted-data .php:392
 msgid "PDF reader core or external font size"
 msgstr ""
 
-#: um-pdf-user-submitted-data .php:268
+#: um-pdf-user-submitted-data .php:266
 msgid "PDF User Submitted data Enable"
 msgstr ""
 
-#: um-pdf-user-submitted-data .php:275
+#: um-pdf-user-submitted-data .php:273
 msgid "PDF User Submitted data Recreate"
 msgstr ""
 
@@ -159,49 +159,49 @@ msgstr ""
 msgid "Plugin"
 msgstr ""
 
-#: um-pdf-user-submitted-data .php:277
+#: um-pdf-user-submitted-data .php:275
 msgid ""
 "Recreate non-existent PDF files with Submitted User Registration Data for "
 "Users"
 msgstr ""
 
-#: um-pdf-user-submitted-data .php:286
+#: um-pdf-user-submitted-data .php:284
 msgid "Select number of Users in each batch of PDF file creations."
 msgstr ""
 
-#: um-pdf-user-submitted-data .php:314
+#: um-pdf-user-submitted-data .php:312
 msgid "Send an email to site admin with batch PDF creation summary"
 msgstr ""
 
-#: um-pdf-user-submitted-data .php:503
+#: um-pdf-user-submitted-data .php:501
 #, php-format
 msgid "Status PDF file creation at %s %s"
 msgstr ""
 
 #: um-pdf-user-submitted-data .php:224 um-pdf-user-submitted-data .php:239
-#: um-pdf-user-submitted-data .php:539
+#: um-pdf-user-submitted-data .php:537
 msgid "Submitted PDF"
 msgstr ""
 
-#: um-pdf-user-submitted-data .php:338
+#: um-pdf-user-submitted-data .php:336
 msgid "The comment text may include HTML allowed for WP posts."
 msgstr ""
 
-#: um-pdf-user-submitted-data .php:370
+#: um-pdf-user-submitted-data .php:368
 msgid "The font family to use from the external URL"
 msgstr ""
 
-#: um-pdf-user-submitted-data .php:330
+#: um-pdf-user-submitted-data .php:328
 msgid "The footer text may include HTML allowed for WP posts"
 msgstr ""
 
-#: um-pdf-user-submitted-data .php:322
+#: um-pdf-user-submitted-data .php:320
 msgid ""
 "The header text may include HTML allowed for WP posts. Example: <h2>"
 "Submitted at registration</h2>"
 msgstr ""
 
-#: um-pdf-user-submitted-data .php:386
+#: um-pdf-user-submitted-data .php:384
 msgid "Times"
 msgstr ""
 
@@ -209,10 +209,10 @@ msgstr ""
 msgid "Ultimate Member - PDF User Submitted data"
 msgstr ""
 
-#: um-pdf-user-submitted-data .php:344
+#: um-pdf-user-submitted-data .php:342
 msgid "URL link text for the email placeholder"
 msgstr ""
 
-#: um-pdf-user-submitted-data .php:395
+#: um-pdf-user-submitted-data .php:393
 msgid "Use this font size regardless of font family"
 msgstr ""
