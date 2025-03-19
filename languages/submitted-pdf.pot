@@ -1,0 +1,218 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Member - PDF User Submitted data\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-19 22:11+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.7.1; wp-6.7.2\n"
+"X-Domain: submitted-pdf"
+
+#: um-pdf-user-submitted-data .php:498
+msgid ""
+"%d Users without submitted PDF files got PDF created and total remaining "
+"Users are now %d, Found empty %d - error %d - fixed %d"
+msgstr ""
+
+#: um-pdf-user-submitted-data .php:240
+#, php-format
+msgid "%s version %s - tested with UM 2.10.1"
+msgstr ""
+
+#: um-pdf-user-submitted-data .php:312
+msgid "Admin email enable"
+msgstr ""
+
+#: um-pdf-user-submitted-data .php:381
+msgid "Courier"
+msgstr ""
+
+#: um-pdf-user-submitted-data .php:382
+msgid "DejaVu Sans"
+msgstr ""
+
+#: um-pdf-user-submitted-data .php:384
+msgid "DejaVu Sans Mono"
+msgstr ""
+
+#: um-pdf-user-submitted-data .php:383
+msgid "DejaVu Serif"
+msgstr ""
+
+#: um-pdf-user-submitted-data .php:354
+msgid "Enable/disable external fonts for PDF"
+msgstr ""
+
+#: um-pdf-user-submitted-data .php:269
+msgid ""
+"Enable/disable the extension for creating PDF with Submitted User "
+"Registration Data"
+msgstr ""
+
+#: um-pdf-user-submitted-data .php:362
+msgid "Enter external URL address like Google fonts"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Extension to Ultimate Member for creating PDF files with Submitted User "
+"Registration Data and an option to attach PDF file links to notification "
+"emails."
+msgstr ""
+
+#: um-pdf-user-submitted-data .php:287
+msgid "Find the seach/create result at the checkbox description line above."
+msgstr ""
+
+#: um-pdf-user-submitted-data .php:234
+msgid "GitHub plugin documentation and download"
+msgstr ""
+
+#: um-pdf-user-submitted-data .php:385
+msgid "Helvetica"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/MissVeronica"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/MissVeronica/um-pdf-user-submitted-data"
+msgstr ""
+
+#: um-pdf-user-submitted-data .php:346
+msgid ""
+"Link text for: {pdf_submitted_link}, default if field is empty; \"PDF file\""
+msgstr ""
+
+#. Author of the plugin
+msgid "Miss Veronica"
+msgstr ""
+
+#: um-pdf-user-submitted-data .php:420
+msgid ""
+"No PDF files were searched or created, you must click the \"Save Changes\" "
+"button."
+msgstr ""
+
+#: um-pdf-user-submitted-data .php:133
+msgid "Page"
+msgstr ""
+
+#: um-pdf-user-submitted-data .php:352
+msgid "PDF external font Enable"
+msgstr ""
+
+#: um-pdf-user-submitted-data .php:368
+msgid "PDF External font family"
+msgstr ""
+
+#: um-pdf-user-submitted-data .php:360
+msgid "PDF External font URL"
+msgstr ""
+
+#: um-pdf-user-submitted-data .php:72
+msgid "PDF file"
+msgstr ""
+
+#: um-pdf-user-submitted-data .php:285
+msgid "PDF file recreation number of Users"
+msgstr ""
+
+#: um-pdf-user-submitted-data .php:328
+msgid "PDF Footer text"
+msgstr ""
+
+#: um-pdf-user-submitted-data .php:320
+msgid "PDF Header text"
+msgstr ""
+
+#: um-pdf-user-submitted-data .php:336
+msgid "PDF post text comment"
+msgstr ""
+
+#: um-pdf-user-submitted-data .php:377
+msgid "PDF reader core font family"
+msgstr ""
+
+#: um-pdf-user-submitted-data .php:394
+msgid "PDF reader core or external font size"
+msgstr ""
+
+#: um-pdf-user-submitted-data .php:268
+msgid "PDF User Submitted data Enable"
+msgstr ""
+
+#: um-pdf-user-submitted-data .php:275
+msgid "PDF User Submitted data Recreate"
+msgstr ""
+
+#: um-pdf-user-submitted-data .php:235
+msgid "Plugin"
+msgstr ""
+
+#: um-pdf-user-submitted-data .php:277
+msgid ""
+"Recreate non-existent PDF files with Submitted User Registration Data for "
+"Users"
+msgstr ""
+
+#: um-pdf-user-submitted-data .php:286
+msgid "Select number of Users in each batch of PDF file creations."
+msgstr ""
+
+#: um-pdf-user-submitted-data .php:314
+msgid "Send an email to site admin with batch PDF creation summary"
+msgstr ""
+
+#: um-pdf-user-submitted-data .php:503
+#, php-format
+msgid "Status PDF file creation at %s %s"
+msgstr ""
+
+#: um-pdf-user-submitted-data .php:224 um-pdf-user-submitted-data .php:239
+#: um-pdf-user-submitted-data .php:539
+msgid "Submitted PDF"
+msgstr ""
+
+#: um-pdf-user-submitted-data .php:338
+msgid "The comment text may include HTML allowed for WP posts."
+msgstr ""
+
+#: um-pdf-user-submitted-data .php:370
+msgid "The font family to use from the external URL"
+msgstr ""
+
+#: um-pdf-user-submitted-data .php:330
+msgid "The footer text may include HTML allowed for WP posts"
+msgstr ""
+
+#: um-pdf-user-submitted-data .php:322
+msgid ""
+"The header text may include HTML allowed for WP posts. Example: <h2>"
+"Submitted at registration</h2>"
+msgstr ""
+
+#: um-pdf-user-submitted-data .php:386
+msgid "Times"
+msgstr ""
+
+#. Name of the plugin
+msgid "Ultimate Member - PDF User Submitted data"
+msgstr ""
+
+#: um-pdf-user-submitted-data .php:344
+msgid "URL link text for the email placeholder"
+msgstr ""
+
+#: um-pdf-user-submitted-data .php:395
+msgid "Use this font size regardless of font family"
+msgstr ""
