@@ -38,7 +38,7 @@ Fixed submitted field format for user IDs 96
 2. Example: <code>Link to <a href="https://.../wp-content/uploads/ultimatemember/ID/file_submitted_HASH.pdf" target="_blank" rel="noreferrer">your submitted form</a> PDF</code>
 
 ## UM Form Builder Shortcode
-Display of the Submitted PDF by the shortcode [show_submitted_pdf icon="fas fa-file-pdf"]URL link text[/show_submitted_pdf]
+Display of the Submitted PDF by the shortcode <code>[show_submitted_pdf icon="fas fa-file-pdf"]URL link text[/show_submitted_pdf]</code>
 
 ## UM meta_key
 1. The meta-key used for storing the submitted PDF file name is: um_pdf_submitted
